@@ -1,0 +1,6 @@
+---
+web_client:
+  address: "https://xyz.com"
+  port: "7000"
+user_service:
+  verbosity_level: "CONCISE"
