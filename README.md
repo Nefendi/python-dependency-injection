@@ -76,6 +76,6 @@ standard output while running the tests.
 ## Dependencies
 
 The code was written using Python 3.10.6. All the needed dependencies are in the
-`pyproject.toml` file. Simply run `poetry install` in a virtual environment to
-download everything. If you are not currently using a virtual environment,
-Poetry will create it automatically for you.
+`pyproject.toml` file. Simply run `poetry install --no-root` in a virtual
+environment to download everything. If you are not currently using a virtual
+environment, Poetry will create it automatically for you.
